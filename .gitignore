@@ -1,0 +1,8 @@
+/noafiles
+src/main/resources/application.properties
+/out/
+/.gradle/
+/.idea/
+/build/
+/gradle/
+/logs/
