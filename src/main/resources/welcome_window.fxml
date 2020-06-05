@@ -21,7 +21,7 @@
       </TextField>
       <HBox alignment="CENTER_RIGHT" layoutX="-21.0" layoutY="101.0" prefWidth="575.0" spacing="8.0" AnchorPane.bottomAnchor="8.0" AnchorPane.leftAnchor="8.0" AnchorPane.rightAnchor="8.0" AnchorPane.topAnchor="108.0">
          <children>
-            <Button fx:id="startButton" mnemonicParsing="false" onAction="#onClick" text="Start Game">
+            <Button fx:id="startButton" mnemonicParsing="false" onAction="#startGame" text="Start Game">
                <font>
                   <Font size="24.0" />
                </font>
